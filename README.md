@@ -1,6 +1,5 @@
 #### Hi there, I am Faraz Ahmed Abir. [website] 👋
-
-[![Website](https://farazabirdo.cf)](https://farazabirdo.cf)
+[Website](https://farazabirdo.cf)](https://farazabirdo.cf)
 
 
 ## I am a Computer Scince student, a web and game developer. 
@@ -48,6 +47,6 @@
 
 [website]: https://farazabirdo.cf
 [facebook]: https://www.facebook.com/farazahamed.abir
-[email]: @farazabir50.com
+[email]: farazabir50@gmail.com
 [instagram]: https://www.instagram.com/farazahamedabir/
 [linkedin]: https://www.linkedin.com/
