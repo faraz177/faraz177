@@ -2,7 +2,7 @@
 [Website](https://farazabirdo.cf)](https://farazabirdo.cf)
 
 
-## I am a Computer Scince student, a web and game developer. 
+## I am a Computer Science student, a web and game developer. 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects 
